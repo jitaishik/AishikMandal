@@ -1,0 +1,34 @@
+body{
+	color:#c6001d;
+	font-family:helvetica;
+	background-image: url('3.jpg');
+	background-size: cover;
+}
+.nav ul a{
+	color:#edf3ff;
+	text-decoration: none;
+	padding: 10px 20px;
+}
+.nav ul a:hover{
+	color: #a0c4ff;
+}
+ul{
+	list-style-type: square;
+}
+.nav ul li{
+	list-style-type: none;
+	display: inline;
+}
+header{
+	background-color: black;
+}
+.KVPY{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	height: 150px;
+	width: 150px;
+}
+.clear{
+	clear: both;
+}
